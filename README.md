@@ -28,6 +28,6 @@ Skills: Java/ Kotlin/ C/ SQLite/ Room/ Firebase/ MVVM/ MVP/ Rest API/ Retrofit/ 
 
 ![GitHub metrics](https://metrics.lecoq.io/shakircam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakircam)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakircam&show_icons=true&theme=tokyonight)  
 
 ![Profile views](https://gpvc.arturio.dev/shakircam)  
