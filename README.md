@@ -22,12 +22,10 @@ Skills: Java/ Kotlin/ C/ SQLite/ Room/ Firebase/ MVVM/ MVP/ Rest API/ Retrofit/ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakircam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakircam&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakircam&show_icons=true&theme=tokyonight) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shakircam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shakircam)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakircam&show_icons=true&theme=tokyonight)  
-
+ 
 ![Profile views](https://gpvc.arturio.dev/shakircam)  
