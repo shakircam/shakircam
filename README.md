@@ -10,7 +10,7 @@ I started to build my first projects in 2019 and since that time I have been con
 
 Skills: Java/ Kotlin/ C/ SQLite/ Room/ Firebase/ MVVM/ MVP/ Rest API/ Retrofit/ Navigation Components/ Architecture Components/ Dagger Hilt/ Coroutines/ View Binding/ Live Data/ Material Design/ Google Map SDK/ Push Notification/ Service/ SSLCommerz Payment Integration
 
-- 🔭 I’m currently working on Pioneer Alpha 
+- 🔭 I’m currently working on Itmedicus 
 - 🌱 I’m currently learning Flutter 
 
 
