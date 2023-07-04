@@ -11,7 +11,7 @@ I started to build my first projects in 2019 and since that time I have been con
 Skills: Java/ Kotlin/ C/ SQLite/ Room/ Firebase/ MVVM/ MVP/ Rest API/ Retrofit/ Navigation Components/ Architecture Components/ Dagger Hilt/ Coroutines/ View Binding/ Live Data/ Material Design/ Google Map SDK/ Push Notification/ Service/ SSLCommerz Payment Integration
 
 - 🔭 I’m currently working on Arits Limited 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently working with Kotlin,Java and Flutter.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakircam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibrahim-khalil-shakir-8a00b0154/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shakircam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shakircam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17284887)  
